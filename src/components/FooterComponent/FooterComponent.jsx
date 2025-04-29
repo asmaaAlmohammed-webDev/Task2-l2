@@ -1,7 +1,7 @@
 import "./FooterComponent.css";
 const FooterComponent = () => {
   return (
-    <footer className="">
+    <footer className="" data-aos="zoom-in-down" data-aos-duration="1500">
       <div className="row1">
         <div className="col1">
           <div className="logo">

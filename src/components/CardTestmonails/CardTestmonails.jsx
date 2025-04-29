@@ -1,7 +1,7 @@
 import "./CardTestmonails.css";
 const CardTestmonails = ({ name, text, image }) => {
   return (
-    <div className="testimonial-card">
+    <div className="testimonial-card" data-aos="fade-left">
       <div className="testimonial-image">
         <img src={image} alt="person-img" />
       </div>

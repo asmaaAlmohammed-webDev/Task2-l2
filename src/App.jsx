@@ -15,9 +15,11 @@ import { navLinks, logoInfo } from "./data/NavData";
 function App() {
   useEffect(() => {
     AOS.init({
-      duration: 800,
-      easing: "ease-in-out", 
-      once: true, 
+      duration: 1000,
+      offset: 0,
+      distance: "50px",
+      once: false,
+      mirror: true,
     });
   }, []);
   return (

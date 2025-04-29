@@ -20,7 +20,7 @@ const AccordionSec = () => {
       <div className="accordion-container ">
         {AccordionData?.map((item, index) => (
           <AccordionCard
-            key={item.id}
+            key={index}
             item={item}
             isOpen={openIndex === index}
             onClick={() => toggleItem(index)}

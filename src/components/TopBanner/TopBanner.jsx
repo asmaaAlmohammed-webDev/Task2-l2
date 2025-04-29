@@ -1,7 +1,12 @@
 import "./TopBanner.css";
 const TopBanner = () => {
   return (
-    <div className="TopBanner" data-aos="zoom-in">
+    <div
+      className="TopBanner"
+      data-aos="zoom-in"
+      data-aos-easing="linear"
+      data-aos-duration="1500"
+    >
       <p>
         Admission is Open, Grap your seat now
         <img src="/assets/imgs/Vector(Stroke)(1).svg" alt="Vector(Stroke)(1)" />

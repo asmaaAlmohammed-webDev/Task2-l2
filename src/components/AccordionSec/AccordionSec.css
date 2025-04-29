@@ -1,9 +1,7 @@
 .accordion-container {
-    
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
     gap: 50px;
     flex-wrap: wrap;
-  
 }

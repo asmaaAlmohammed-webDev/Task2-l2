@@ -11,7 +11,7 @@ const NavBar = ({ links, logo }) => {
   };
 
   return (
-    <nav className="navbar " data-aos="zoom-in">
+    <nav className="navbar " data-aos="zoom-in" data-aos-duration="1500">
       <div className="logo">
         <img src={logo.imgSrc} alt={logo.alt} />
         <h1>{logo.title}</h1>

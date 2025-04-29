@@ -18,10 +18,10 @@ const AccordionCard = ({ item, isOpen, onClick }) => {
       </div>
 
       <div
-        className="accordion-content"
+        className={`accordion-content ${isOpen ? "active" : ""}`}
         style={{
           maxHeight: isOpen ? "251px" : "0",
-          padding: isOpen ? "40px" : "0 40px",
+          padding: isOpen ? "15px" : "0 40px",
           borderTop: isOpen ? "2px solid var(--grey15-color)" : "none",
         }}
       >

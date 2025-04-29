@@ -2,7 +2,7 @@ import "./NavigateCard.css";
 
 const NavigateCard = ({item}) => {
   return (
-    <div className="navigate-card">
+    <div className="navigate-card" data-aos="fade-up" data-aos-duration="1000">
       <h3 className="title">{item.title}</h3>
       <img src="/assets/imgs/Container.png" alt="line-img" />
       <p className="desc">{item.description}</p>
