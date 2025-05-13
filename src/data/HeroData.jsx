@@ -1,6 +1,6 @@
 export const HeroData = [
   {
-    img: "/assets/imgs/ImageContainer.png",
+    img: "/Task2-l2/assets/imgs/ImageContainer.png",
     title: "Where Young Minds Blossom and",
     span: "Dreams Take Flight.",
     desc1: "Welcome to Little Learners Academy",

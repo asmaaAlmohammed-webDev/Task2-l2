@@ -9,7 +9,7 @@ export const navLinks = [
 ];
 
 export const logoInfo = {
-    imgSrc: "/assets/imgs/shape-14.svg",
+    imgSrc: "/Task2-l2/assets/imgs/shape-14.svg",
     alt:"logo-img",
     title: "Little Learners",
   

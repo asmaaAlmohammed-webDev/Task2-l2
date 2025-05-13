@@ -5,7 +5,7 @@ const FooterComponent = () => {
       <div className="row1">
         <div className="col1">
           <div className="logo">
-            <img src="/assets/imgs/Logo.svg" alt="logo-img" />
+            <img src="/Task2-l2/assets/imgs/Logo.svg" alt="logo-img" />
             <p>
               We believe in the power of play to foster creativity,
               problem-solving skills, and imagination.
@@ -14,19 +14,19 @@ const FooterComponent = () => {
           <div className="infos">
             <div className="info">
               <div className="icon">
-                <img src="/assets/imgs/Subtract.svg" alt="logo-img" />
+                <img src="/Task2-l2/assets/imgs/Subtract.svg" alt="logo-img" />
               </div>
               <p>hello@littlelearners.com</p>
             </div>
             <div className="info">
               <div className="icon">
-                <img src="/assets/imgs/phone.svg" alt="logo-img" />
+                <img src="/Task2-l2/assets/imgs/phone.svg" alt="logo-img" />
               </div>
               <p>+91 91813 23 2309</p>
             </div>
             <div className="info">
               <div className="icon">
-                <img src="/assets/imgs/location.svg" alt="logo-img" />
+                <img src="/Task2-l2/assets/imgs/location.svg" alt="logo-img" />
               </div>
               <p>Somewhere in the World</p>
             </div>
@@ -70,13 +70,13 @@ const FooterComponent = () => {
         </div>
         <div className="socail-icons">
           <div className="icon">
-            <img src="/assets/imgs/Icon(5).svg" alt="logo-img" />
+            <img src="/Task2-l2/assets/imgs/Icon(5).svg" alt="logo-img" />
           </div>
           <div className="icon">
-            <img src="/assets/imgs/location.svg" alt="logo-img" />
+            <img src="/Task2-l2/assets/imgs/location.svg" alt="logo-img" />
           </div>
           <div className="icon">
-            <img src="/assets/imgs/twitter.svg" alt="logo-img" />
+            <img src="/Task2-l2/assets/imgs/twitter.svg" alt="logo-img" />
           </div>
         </div>
       </div>
